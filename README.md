@@ -1,2 +1,2 @@
 # test
-Class repository
+編集しました
